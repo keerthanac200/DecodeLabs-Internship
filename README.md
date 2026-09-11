@@ -29,6 +29,16 @@ Make sure you have Python 3.x installed on your system.
 ### Running Project 1: To-Do List
 ```bash
 python todo.py
+```
+
 ### Running Project 2: Expense Tracker
 ```bash
 python expense_tracker.py
+```
+
+---
+
+## 💻 Technical Stack
+* **Language:** Python 3.x
+* **Version Control:** Git & GitHub
+* **Development Environment:** Visual Studio Code / Git Bash
